@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temperature</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <script defer src="../js/temperature.js"></script>
+  </head>
+  <body>
+    <div id="app-container">
+      <header>
+        <img src="../assets/measurement-icon.svg" alt="Measuring tape icon" />
+        <h1><strong>Temperature</strong> Unit converter</h1>
+        <nav>
+          <a href="../index.html">
+            <button class="navigation-btn">Homepage</button>
+          </a>
+        </nav>
+      </header>
+
+      <main>
+        <form>
+          <div class="values-container">
+            <label for="inputValue"></label>
+            <input
+              type="text"
+              name="inputValue"
+              placeholder="Input..."
+              id="inputValue"
+            />
+            =
+            <label for="outputValue"></label>
+            <input
+              type="text"
+              name="outputValue"
+              placeholder="Output..."
+              id="outputValue"
+            />
+          </div>
+          <div class="values-container">
+            <label for="inputUnit"></label>
+            <select name="inputUnit" id="inputUnit">
+              <option selected disabled value="">Select...</option>
+              <option value="ce">degrees Celsius</option>
+              <option value="fh">degrees Fahrenheit</option>
+              <option value="ke">Kelvin</option>
+            </select>
+            <label for="outputUnit"></label>
+            <select name="outputUnit" id="outputUnit">
+              <option selected disabled value="">Select...</option>
+              <option value="ce">degrees Celsius</option>
+              <option value="fh">degrees Fahrenheit</option>
+              <option value="ke">Kelvin</option>
+            </select>
+          </div>
+        </form>
+      </main>
+
+      <footer>
+        <p>
+          &lt;&lt;&lt;====================
+          <strong>Created by Thiago Souto, a Brazilian developer</strong>
+          ====================&gt;&gt;&gt;
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
