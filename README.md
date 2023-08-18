@@ -1,12 +1,12 @@
 # Website Conversor de Unidades de Medida (PT-BR)
 
-Este website trata-se de um conversor interativo de unidades de medida que contem 5 principais categorias: distância, velocidade, temperatura, tempo e volume. Deploy link: <https://thiagosoutodev.github.io/unitsConverterProject/>.
+Este website trata-se de um conversor interativo de unidades de medida que contem 5 principais categorias: distância, velocidade, temperatura, tempo e volume. Deploy link: <https://thiagosoutodev.github.io/unit-converter-website/>.
 
 ---
 
 ### Funcionalidades básicas do website:
 
-- Converter unidades de DISTÃNCIA;
+- Converter unidades de DISTÂNCIA;
 - Converter unidades de VELOCIDADE;
 - Converter unidades de TEMPERATURA;
 - Converter unidades de TEMPO;
@@ -30,9 +30,9 @@ Projeto desenvolvido apenas com fins educacionais.
 
 ---
 
-# Units of Measurement Converter Website (EN)
+# Unit Converter Website (EN)
 
-This website is an interactive converter of units of measurement which contains 5 main categories: distance, speed, temperature, time and volume. Deploy link: <https://thiagosoutodev.github.io/unitsConverterProject/>.
+This website is an interactive converter of units of measurement which contains 5 main categories: distance, speed, temperature, time and volume. Deploy link: <https://thiagosoutodev.github.io/unit-converter-website/>.
 
 ---
 
